@@ -1,3 +1,4 @@
+#download manim an that one mfx thingy idk what, but needed for animation and just run it ig, have fun learning 210 ways to dress.
 from manim import *
 import networkx as nx
 from collections import defaultdict, deque
